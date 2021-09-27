@@ -3,6 +3,7 @@
 
 /* Cores padrao */
 /* Fundo-Cor escura = #282A36 */
+/* Fundo-Cor chunk = #464B5D80*/
 /* Selecao-Roxo claro = #6B4F75 */
 /* Lilas = #BD93F9 */
 /* Azul = #5CA8FF */
@@ -841,7 +842,7 @@
 .xtermColor234 { color: #1c1c1c !important; }
 .xtermBgColor234 { background-color: #1c1c1c; }
 .xtermColor235 { color: #262626 !important; }
-.xtermBgColor235 { background-color: #262626; }
+.xtermBgColor235 { background-color: #464B5D80; }
 .xtermColor236 { color: #303030 !important; }
 .xtermBgColor236 { background-color: #303030; }
 .xtermColor237 { color: #3a3a3a !important; }
