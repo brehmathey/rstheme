@@ -40,7 +40,7 @@
 }
 
 
-/* cor do cursor talvez*/
+/* Talvez cor do cursor*/
 .ace_cursor {
   color: #F4EEE4;
 }
@@ -299,18 +299,18 @@
   background-color: #464B5D80;
 }
 
-/* Talvez cor e da borda na linha de código que está a ser debugada*/
+/* Talvez cor e da borda na linha de código que está sendo debugada*/
 .ace_marker-layer .ace_active_debug_line {
   position: absolute;
   z-index: -1;
   background-color: #d90b19;
 }
 
-/* N sei*/
+/* Cor do fundo da selecao na busca (In selection)*/
 .ace_marker-layer .ace_find_line {
   position: absolute;
   z-index: -1;
-  background-color: #d90b19;
+  background-color: #524E75;
 }
 
 /* Cor de fundo erro do chunk*/
