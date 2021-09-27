@@ -841,6 +841,8 @@
 .xtermBgColor233 { background-color: #121212; }
 .xtermColor234 { color: #1c1c1c !important; }
 .xtermBgColor234 { background-color: #1c1c1c; }
+
+/* Cor de algo na saida de read_csv*/
 .xtermColor235 { color: #262626 !important; }
 .xtermBgColor235 { background-color: #464B5D80; }
 .xtermColor236 { color: #303030 !important; }
